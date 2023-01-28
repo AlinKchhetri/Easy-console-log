@@ -8,7 +8,7 @@ Describe specific features of your extension including screenshots of your exten
 
 For example if there is an image subfolder under your extension project workspace:
 
-![feature X](https://github.com/AlinKchhetri/Easy-console-log/Demo.gif)
+![feature X](https://github.com/AlinKchhetri/Easy-console-log/blob/main/Demo.gif)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
