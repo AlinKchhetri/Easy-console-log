@@ -1,65 +1,33 @@
-# easy-console-log README
+# Easy Console Log VSCode Extension
 
-This is the README for your extension "easy-console-log". After writing up a brief description, we recommend including the following sections.
+This VSCode extension console.logs a statement with file name, line number for the selected variable and generates a random programming jokes to make you laugh and lighten up your day.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+*  🚀 Inserts a new line just below the selected variable with the console.log statement.
+*  🔥Displays file name, line number and the variable name with the selected variable text
+*  🤣Retrieves a random programming joke from a web API.
+*  Displays the joke in the editor.
+*  Keyboard shortcut "ctrl+shift+L" to activate the command.
 
-For example if there is an image subfolder under your extension project workspace:
+For example: 
 
-![feature X](https://github.com/AlinKchhetri/Easy-console-log/blob/main/Demo.gif)
+![Console Log](https://github.com/AlinKchhetri/Easy-console-log/blob/main/Demo.gif)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Usage
 
-## Requirements
+To use the extension, simply press the keyboard shortcut "ctrl+shift+L" on windows & "shift+cmd+L" on mac, and the console log statement as well as a random programming joke will be displayed in the editor.
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Installation
 
-## Extension Settings
+* Open the Extensions pane in VSCode (Ctrl+Shift+X or Cmd+Shift+X on Mac).
+* Search for "Easy Console Log" and click the "install" button.
+* Restart VSCode if prompted.
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## Support
 
-For example:
+If you have any issues with this extension, please create an issue in the github repository
+[GitHub]([https://linktodocumentation](https://github.com/AlinKchhetri/Easy-console-log))
 
-This extension contributes the following settings:
+**Enjoy the extension and have fun!**
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
