@@ -16,11 +16,11 @@ For example:
 
 ## Usage
 
-To use the extension, simply press the keyboard shortcut "ctrl+shift+L" on windows & "shift+cmd+L" on mac, and the console log statement as well as a random programming joke will be displayed in the editor.
+To use the extension, simply press the keyboard shortcut `ctrl+shift+L` on windows & `shift+cmd+L` on mac, and the console log statement as well as a random programming joke will be displayed in the editor.
 
 ## Installation
 
-* Open the Extensions pane in VSCode (Ctrl+Shift+X or Cmd+Shift+X on Mac).
+* Open the Extensions pane in VSCode (`Ctrl+Shift+X` or `Cmd+Shift+X` on Mac).
 * Search for "Easy Console Log" and click the "install" button.
 * Restart VSCode if prompted.
 
