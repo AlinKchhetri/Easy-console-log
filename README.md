@@ -4,9 +4,9 @@ This VSCode extension console.logs a statement with file name, line number for t
 
 ## Features
 
-*  🚀 Inserts a new line just below the selected variable with the console.log statement.
-*  🔥Displays file name, line number and the variable name with the selected variable text
-*  🤣Retrieves a random programming joke from a web API.
+*  🚀  Inserts a new line just below the selected variable with the console.log statement.
+*  🔥  Displays file name, line number and the variable name with the selected variable text
+*  🤣  Retrieves a random programming joke from a web API.
 *  Displays the joke in the editor.
 *  Keyboard shortcut "ctrl+shift+L" to activate the command.
 
